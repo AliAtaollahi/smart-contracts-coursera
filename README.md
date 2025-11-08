@@ -1,4 +1,4 @@
-# coursera-smart-contracts
+# smart-contracts-coursera
 
 This repository contains the submission files from the Coursera Smarter Contracts course (part of the Blockchain Specialization).
 
